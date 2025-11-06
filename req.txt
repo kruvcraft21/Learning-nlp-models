@@ -112,3 +112,4 @@ scikit-learn==1.7.2
 datasets==4.3.0
 wordcloud==1.9.4
 spacy==3.8.7
+gensim==4.4.0
